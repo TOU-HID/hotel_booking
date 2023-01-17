@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"category": "Delux"
+	},
+	{
+		"id": 2,
+		"category": "Double Delux"
+	},
+	{
+		"id": 3,
+		"category": "Double Bed"
+	},
+	{
+		"id": 4,
+		"category": "Single Bed"
+	}
+]
